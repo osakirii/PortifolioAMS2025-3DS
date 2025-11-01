@@ -6,12 +6,12 @@ Portfólio 2025 3° ano de Desenvolvimento de Sistemas (AMS), Etec e seu projeto
 <table>
   <tr>
     <td>
-      <a href="https://github.com/EnzoCostaPaz">
+      <a href="https://github.com/osakirii">
         <img src="https://github.com/user-attachments/assets/464c2cdf-5c46-47e3-be18-9977dbe90b30" alt="Foto do responsavel" widht="220px" height="220px">
         <br>
         <sub>
             <p align="center">
-              <b>Enzo Costa Paz</b>
+              <b>Sakiri Moon Payao Cestari</b>
             </p>
         </sub>
       </a>
